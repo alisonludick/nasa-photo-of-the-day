@@ -4,8 +4,9 @@ function Photos(props) {
   const { name, addToApp } = props;
   return (
     <div>
-      <span>{name}</span>
-      <button onClick={evt => addToApp(name)}>Add Photo</button>
+      <p>{props.Title}</p>
+      <img src = {props.Image}/>
+      <p>{props.Story}</p>
     </div>
   );
 }
