@@ -9,7 +9,7 @@ const StyledDescription = styled.div`
   align-items: flex-start;
   padding: ${bigPadding};
   &:hover{
-    border: 4px solid green;
+    border: 4px solid palevioletred;
   }
   margin-top: 2rem;
   border: 2px solid grey;

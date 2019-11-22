@@ -8,7 +8,7 @@ const bigPadding = '4px';
 const StyledTitle = styled.div`
   padding: ${bigPadding};
   &:hover{
-    border: 2px solid green;
+    border: 2px solid palevioletred;
   }
   margin: 2px;
   border: 2px solid grey;
@@ -17,7 +17,7 @@ const StyledTitle = styled.div`
   color: whitesmoke;
 }
   span {
-    color: rgb(134, 121, 121);
+    color: skyblue;
     &:hover {
       color: whitesmoke;
       font-weight: bold;
