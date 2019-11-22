@@ -19,9 +19,11 @@ const StyledDescription = styled.div`
 }
 h2{
   font-size: 2.25rem;
-  align-items: center;
+  align-content: center;
+  align-items: center; 
+  align-self: center; 
   &:hover {
-      color: skyblue; 
+      color: whitesmoke; 
   } 
 }
   p{

@@ -16,7 +16,7 @@ const StyledDate = styled.div`
   color: whitesmoke;
 }
   span {
-    color: skyblue;
+    color: palevioletred;
     &:hover {
       color: whitesmoke;
       font-weight: bold;
