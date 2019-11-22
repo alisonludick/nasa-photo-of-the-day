@@ -21,12 +21,12 @@ const MiniContainer = styled.div`
 `;
 const AppStyled = styled.div`
   text-align: center;
-  background: rgb(69, 85, 69);
+  background: skyblue;
   width: 70vw;
   margin: 0 auto;
   padding: 1rem;
   h2 {
-    color: rgb(189, 183, 182);
+    color: palevioletred;
   }
 `;
 function App() {
