@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 import axios from 'axios';
 import styled from 'styled-components';
 
-const bigPadding = '4px';
+const bigPadding = '2px';
 const StyledDescription = styled.div`
   display: flex;
   flex-direction: column;

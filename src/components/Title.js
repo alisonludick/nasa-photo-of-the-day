@@ -3,7 +3,7 @@ import axios from "axios";
 import styled from 'styled-components';
 
 
-const bigPadding = '4px';
+const bigPadding = '2px';
 
 const StyledTitle = styled.div`
   padding: ${bigPadding};
